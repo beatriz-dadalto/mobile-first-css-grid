@@ -208,7 +208,7 @@ footer {
     background-position: top center;
 }
 
-#footer .copyright {
+footer .copyright {
     grid-column: 1/3;
     font-size: .8em;
 }
@@ -219,11 +219,11 @@ footer .social {
     justify-content: flex-end;
 }
 
-#footer li {
+footer li {
     margin: 0 6px;
 }
 
-#footer img {
+footer img {
     width: 20px;
 }
 
