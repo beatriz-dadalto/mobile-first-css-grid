@@ -6,4 +6,4 @@ Projeto retirado do canal [TheNetNinja](https://www.youtube.com/playlist?list=PL
 - Website responsivo com **css grid**
 - Desenvolvido usando a abordagem **Mobile First** 
 
-`Mobile First = site desenvolvido para telas mobile primeiro e depois extende para telas maiores.`
+`Mobile First = site desenvolvido para telas mobile primeiro e depois estende para telas maiores.`
