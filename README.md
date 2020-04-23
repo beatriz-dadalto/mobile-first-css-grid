@@ -7,3 +7,7 @@ Projeto retirado do canal [TheNetNinja](https://www.youtube.com/playlist?list=PL
 - Desenvolvido usando a abordagem **Mobile First** 
 
 `Mobile First = site desenvolvido para telas mobile primeiro e depois estende para telas maiores.`
+
+#### E como ficou o resultado final, Bia?
+
+[Quero acessar agora e ver como ficou o site](https://biacoelho.github.io/mobile-first-css-grid/)
