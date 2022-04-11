@@ -10,4 +10,4 @@ Projeto retirado do canal [TheNetNinja](https://www.youtube.com/playlist?list=PL
 
 #### E como ficou o resultado final, Bia?
 
-[Quero acessar agora e ver como ficou o site](https://beatrizdalto.github.io/mobile-first-css-grid/)
+[Quero acessar agora e ver como ficou o site](https://beatriz-dadalto.github.io/mobile-first-css-grid/)
